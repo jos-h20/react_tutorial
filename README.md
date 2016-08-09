@@ -2,7 +2,7 @@
 
 #### _A web app that enables a store owner to manage different fish products, 8.9.2016_
 
-#### By _**{Josh Overly**_
+#### By _**Josh Overly**_
 
 ## Description
 
